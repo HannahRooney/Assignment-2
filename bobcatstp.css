@@ -1,0 +1,48 @@
+.topnav {
+    background-color: ;
+    overflow: hidden;
+    float: right;
+	position: relative;
+    left: 0px;
+    top: 10px;
+
+}
+.topnav a {
+    float: left;
+    color: maroon;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+	font-family: "Trebuchet MS";
+	
+
+}
+
+
+h1 {
+    font-family: "Trebuchet MS", Times, serif;
+	font-size: 2.5em; color: Maroon; 
+	background-color: white;
+
+	
+
+	
+}
+
+h1 img {
+	height: 60px;
+    width: 60px;
+	position: relative;
+    left: 0px;
+    top: 10px;
+}
+
+
+
+
+body {
+	background-color: white;
+   
+}
+
